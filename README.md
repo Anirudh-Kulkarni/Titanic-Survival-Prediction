@@ -4,7 +4,8 @@ This is the popular [Kaggle project](https://www.kaggle.com/competitions/titanic
 
 
 <img src="titanic.jpg" alt="A ship nearing an iceberg" width="400"/>
-Image taken from the [Unsplash website](https://unsplash.com).
+
+Greatful to the image from [Unsplash](https://unsplash.com).
 
 ## Table of Contents
 
