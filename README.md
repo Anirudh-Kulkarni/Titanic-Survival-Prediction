@@ -90,6 +90,21 @@ Here’s a snippet to demonstrate how to fit a model using a pipeline:
 ## Results
 
 After training and evaluating the models, key metrics are printed for both training and validation datasets, including accuracy, precision, recall, and F1 score.
+The XGBoost model demonstrated strong performance on the Titanic survival prediction task. Below are the evaluation metrics for the model:
+
+### XGBoost Model Performance
+- Train Accuracy: 0.9165
+- Train Precision: 0.9178
+- Train Recall: 0.9165
+- Train F1 Score: 0.9154
+- Validation Accuracy: 0.7985
+- Validation Precision: 0.7975
+- Validation Recall: 0.7985
+- Validation F1 Score: 0.7976
+  
+In addition to the XGBoost model, other models also performed very well, contributing to a comprehensive understanding of the data and enhancing prediction capabilities.
+
+When the test results were submitted to Kaggle, the score was 0.7679. 
 
 ## Conclusion
 
