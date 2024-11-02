@@ -2,6 +2,10 @@
 
 This is the popular [Kaggle project](https://www.kaggle.com/competitions/titanic/overview) that aims to predict the survival of passengers on the Titanic using machine learning techniques. The dataset includes various features such as passenger demographics and ticket information, which are processed and analyzed to create predictive models.
 
+
+<img src="titanic.jpg" alt="A ship nearing an iceberg" width="400"/>
+Image taken from the [Unsplash website](https://unsplash.com).
+
 ## Table of Contents
 
 1. [Project Overview](#titanic-survival-prediction)
